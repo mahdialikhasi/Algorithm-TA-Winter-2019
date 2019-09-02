@@ -1,0 +1,2 @@
+The maximum winning streak is 4175.
+The maximum winning streak is 1.

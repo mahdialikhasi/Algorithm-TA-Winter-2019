@@ -1,0 +1,5 @@
+The maximum winning streak is 2.
+The maximum winning streak is 1.
+Losing streak.
+The maximum winning streak is 15.
+Losing streak.
