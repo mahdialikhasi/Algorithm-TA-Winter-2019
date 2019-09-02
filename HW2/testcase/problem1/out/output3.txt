@@ -1,0 +1,4 @@
+Mohammad should buy books whose prices are 20 and 40.
+
+Mohammad should buy books whose prices are 2 and 2.
+
